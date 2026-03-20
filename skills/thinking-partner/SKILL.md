@@ -80,6 +80,12 @@ Based on the situation type, select 2-3 models. Offer them to the user with a on
 - Reversibility Test ("Is this a one-way or two-way door?")
 - Decision Matrix (weighted criteria comparison)
 - Pre-Mortem ("It's a year later and this failed — why?")
+- Preserving Optionality ("Does this close doors I may want open?")
+- Asymmetric Risk / Convexity ("Capped downside, uncapped upside?")
+- 10/10/10 Rule ("How will I feel in 10 minutes, 10 months, 10 years?")
+- Circle of Concern vs Influence ("Can I actually affect this?")
+- Skin in the Game ("Does the advisor bear consequences?")
+- Satisficing vs Maximizing ("Is good enough better than optimal here?")
 
 **For problems**, consider:
 - First Principles ("What do we know to be fundamentally true?")
@@ -87,6 +93,10 @@ Based on the situation type, select 2-3 models. Offer them to the user with a on
 - Fishbone / Ishikawa (categorize causes systematically)
 - Constraint Analysis / Theory of Constraints ("What's the real bottleneck?")
 - Reframing ("What if this isn't the problem at all?")
+- MECE Decomposition ("Are my categories gap-free and non-overlapping?")
+- Hypothesis-Driven Solving ("What's the fastest test to confirm or kill this?")
+- Bright Spots Analysis ("Where is this already working?")
+- Local vs Global Optima ("Am I stuck on a local peak?")
 
 **For strategy and planning**, consider:
 - Scenario Planning ("What are 3 plausible futures?")
@@ -95,6 +105,12 @@ Based on the situation type, select 2-3 models. Offer them to the user with a on
 - Red Team Analysis ("How would an adversary defeat this plan?")
 - Margin of Safety ("What buffer exists if assumptions are wrong?")
 - The Map is Not the Territory ("Where might our model diverge from reality?")
+- Chesterton's Fence ("Do I understand why this exists before removing it?")
+- Lindy Effect ("How long has this survived? That predicts its future.")
+- Tragedy of the Commons ("Who owns the downside of this shared resource?")
+- Principal-Agent Problem ("Are the agent's incentives aligned with mine?")
+- Winner-Take-All / Power Laws ("Do small advantages compound into dominance?")
+- Switching Costs / Lock-in ("How painful is it to leave?")
 
 **For evaluating claims and evidence**, consider:
 - Bayesian Updating ("How should this evidence shift our confidence?")
@@ -102,6 +118,10 @@ Based on the situation type, select 2-3 models. Offer them to the user with a on
 - Base Rate Neglect ("What's the prior probability before this specific case?")
 - Survivorship Bias ("Are we only looking at winners?")
 - Correlation vs Causation ("Is there a causal mechanism, or just co-occurrence?")
+- Selection Bias ("Who's missing from this dataset?")
+- Gambler's Fallacy ("Are these events actually dependent?")
+- Thinking in Bets ("Was the process sound, regardless of outcome?")
+- Counterfactual Thinking ("What if this one variable had been different?")
 
 **For understanding systems and dynamics**, consider:
 - Feedback Loops ("Is this self-reinforcing or self-correcting?")
@@ -109,6 +129,12 @@ Based on the situation type, select 2-3 models. Offer them to the user with a on
 - Leverage Points ("Where does a small change produce a large effect?")
 - The Red Queen Effect ("Are we running just to stay in place?")
 - Ecosystems Thinking ("Who else is affected and how do they respond?")
+- Stocks and Flows ("What is accumulating or depleting, and at what rate?")
+- Delays ("How long before this action's effect becomes visible?")
+- Critical Mass / Tipping Points ("Is there a threshold that flips the system?")
+- Hysteresis / Path Dependence ("Can we actually reverse this?")
+- Antifragility ("Does this get stronger from shocks?")
+- Entropy ("What decays without active maintenance?")
 
 **For creativity and getting unstuck**, consider:
 - Inversion ("Instead of how to succeed, how would you guarantee failure?")
@@ -116,6 +142,8 @@ Based on the situation type, select 2-3 models. Offer them to the user with a on
 - Analogous Reasoning ("What other domain solved a similar problem?")
 - Constraint Removal ("If X wasn't a constraint, what would you do?")
 - Reframing ("What if the opposite of your assumption is true?")
+- Oblique Strategies (introduce random prompts to break habitual thinking)
+- Minimum Viable Experiment ("What's the cheapest test of the core assumption?")
 
 **For risk assessment**, consider:
 - Pre-Mortem ("Assume failure — what caused it?")
@@ -123,14 +151,51 @@ Based on the situation type, select 2-3 models. Offer them to the user with a on
 - Expected Value ("Probability × Impact for each outcome")
 - Margin of Safety ("How much buffer do I have?")
 - Asymmetric Risk ("What's the upside vs downside ratio?")
+- Barbell Strategy ("Extreme safety + small high-upside bets, avoid the middle")
+- Via Negativa ("What should I remove rather than add?")
+- Hormesis ("Is this the right dose of stress to trigger adaptation?")
 
 **For communication and persuasion**, consider:
 - Steel Manning ("What's the strongest version of the opposing view?")
 - Pyramid Principle ("Lead with the conclusion, support with evidence")
 - BLUF — Bottom Line Up Front
 - Circle of Competence ("Am I speaking within or outside my expertise?")
+- Reciprocity ("What can I give first?")
+- Narrative / Storytelling ("What's the story, and who's the protagonist?")
+- Curse of Knowledge ("What would this look like to a newcomer?")
 
-For the full catalog of 150+ models with descriptions, see: `references/model-catalog.md`
+**For psychology and bias awareness**, consider:
+- Hindsight Bias ("What did I actually believe before I knew the result?")
+- Fundamental Attribution Error ("What situational pressures explain this behavior?")
+- Commitment & Consistency Bias ("Am I defending this because I committed to it?")
+- Planning Fallacy ("What happened when similar projects were attempted?")
+- Halo Effect ("Would I rate this the same without the one impressive trait?")
+- Peak-End Rule ("What will the emotional peak and ending be?")
+
+**For negotiation**, consider:
+- BATNA ("What's my best alternative if this deal fails?")
+- ZOPA ("Is there overlap between what each side would accept?")
+- Logrolling ("What do I value less that they value more?")
+- Schelling Point ("What's the obvious default everyone converges on?")
+
+**For learning and growth**, consider:
+- Feynman Technique ("Can I explain this so a 12-year-old understands?")
+- Spaced Repetition (review at increasing intervals for retention)
+- Zone of Proximal Development ("Just beyond current ability, with support")
+- Maker's Schedule vs Manager's Schedule ("Am I protecting deep-work blocks?")
+
+**For game theory and competition**, consider:
+- Prisoner's Dilemma ("One-shot or repeated game?")
+- Tit for Tat ("Mirror cooperation, punish defection")
+- Signaling ("What costly action proves my claim?")
+- Moral Hazard ("Does the decision-maker bear the consequences?")
+- Coevolution ("How is the other side adapting to my moves?")
+- Niche Construction ("Can I reshape the environment instead of adapting?")
+
+**For ethics**, consider:
+- Veil of Ignorance ("Would I accept this if I didn't know my role?")
+
+For the full catalog of 150+ models with detailed descriptions and usage guidance, see: `references/model-catalog.md`
 
 ### Step 4: Apply the Models
 

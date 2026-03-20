@@ -7,7 +7,7 @@ Built on the open [Agent Skills](https://agentskills.io) standard. Works with Cl
 ## Install
 
 ```bash
-npx skillsadd mattnowdev/thinking-partner
+npx skills add mattnowdev/thinking-partner
 ```
 
 ## What It Does
